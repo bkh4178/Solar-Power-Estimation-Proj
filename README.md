@@ -8,13 +8,13 @@
 - pandas, numpy, scikit-learn
 
 ## Structure
-'''text
+```text
 project/
 ├─ data/        # 로컬 데이터 (gitignore)
 ├─ src/         # 주요 코드
 ├─ notebooks/   # 실험용 노트북
 └─ README.md
-'''
+```
 
 ## Notes
 - 데이터 파일은 업로드하지 않습니다.
