@@ -10,9 +10,9 @@
 ## Structure
 ```text
 project/
-├─ data/        # 로컬 데이터 (gitignore)
-├─ src/         # 주요 코드
-├─ notebooks/   # 실험용 노트북
+├─ data/         # 로컬 데이터
+├─ code/         # 주요 코드
+├─ doc/          # 제출 문서
 └─ README.md
 ```
 
